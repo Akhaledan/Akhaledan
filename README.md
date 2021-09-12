@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello Github 👋
+
+Hey everyone, I'm Alex, and I'm a software engineer.
 
 <!--
 **Akhaledan/Akhaledan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
