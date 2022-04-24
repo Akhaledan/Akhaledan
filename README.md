@@ -1,6 +1,8 @@
-### 💯 On the grind.
+### I'm grinding 💯
 
-Hey everyone, I'm Alex.
+Sup.
+
+
 
 <!--
 **Akhaledan/Akhaledan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
